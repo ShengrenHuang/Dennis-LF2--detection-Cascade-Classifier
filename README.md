@@ -17,5 +17,5 @@
 
 
 # Reference
-[1] https://www.youtube.com/watch?v=XrCAvs9AePM&ab_channel=LearnCodeByGaming
+[1] https://www.youtube.com/watch?v=XrCAvs9AePM&ab_channel=LearnCodeByGaming  
 [2] https://docs.opencv.org/4.2.0/dc/d88/tutorial_traincascade.html

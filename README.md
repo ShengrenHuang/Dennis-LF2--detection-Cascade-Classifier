@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/108604868/184274990-d94bfc43-efa9-4844
 
 
 # Reference
-[1] Training a Cascade Classifier - OpenCV Object Detection in Games #8:
+[1] Training a Cascade Classifier - OpenCV Object Detection in Games #8:  
 https://www.youtube.com/watch?v=XrCAvs9AePM&ab_channel=LearnCodeByGaming .   
 [2] Cascade Classifier Training:
 https://docs.opencv.org/4.2.0/dc/d88/tutorial_traincascade.html .
